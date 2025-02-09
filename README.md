@@ -104,7 +104,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Project Link: [https://github.com/yourusername/c-programming-geometry-calculator](https://github.com/yourusername/c-programming-geometry-calculator)
 - Email: [hhnk3693@gmail.com](hhnk3693@gmail.com)
-- YouTube Channel: [YouTube Channel](https://youtu.be/rr20UtNrMV0?si=Oo_DEHyXPDUQT39r)
+- YouTube Channel: [YouTube Channel](https://youtube.com/playlist?list=PLrZbkNpNVSwynGerCSQFgJDUVG52nj3Gv&si=r78kL7i7oQeq9GYk)
 
 ---
 ⭐️ If you find this project helpful, please give it a star on GitHub! ⭐️
